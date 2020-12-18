@@ -1,0 +1,11 @@
+10
+smallcookie
+giantcookie
+smallcookie
+soda
+cakesquare
+cakesquare
+giantcookie
+soda
+water
+smallcookie

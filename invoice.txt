@@ -1,0 +1,16 @@
+FoodStand
+---------------------------------
+SMALLCOOKIE    -             1.25
+GIANTCOOKIE    -             3.00
+SMALLCOOKIE    -             1.25
+SODA           -             1.50
+CAKESQUARE     -             5.50
+CAKESQUARE     -             5.50
+GIANTCOOKIE    -             3.00
+SODA           -             1.50
+WATER          -             1.25
+SMALLCOOKIE    -             1.25
+---------------------------------
+			Subtotal -     25.00 
+			Tax      -      1.25 
+			Total    -     26.25 
